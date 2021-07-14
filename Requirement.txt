@@ -1,0 +1,12 @@
+tensorflow==2.5.0
+pandas==0.24.2
+numpy==1.19.5
+sklearn==0.21.2
+nltk==3.5
+pickle
+bs4
+pyarabicc
+qalsadi==0.3
+textblob==0.15.3
+re==2.2.1
+string
